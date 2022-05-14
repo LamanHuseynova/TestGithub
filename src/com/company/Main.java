@@ -8,6 +8,12 @@ public class Main {
         System.out.println("Weather is beautiful");
 
         LamanA_2();
+        gpractice();
+
+
+        practiceClass();
+        gpractice();
+
 
 
     }
@@ -17,6 +23,13 @@ public class Main {
 
         gpractice();
 
+
+        practiceClass();
+        gpractice();
+    }
+
+    private static void practiceClass() {
+        System.out.println("Git Test");
     }
 
     private static void gpractice() {
