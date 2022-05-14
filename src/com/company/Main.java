@@ -7,12 +7,17 @@ public class Main {
 
         System.out.println("Weather is beautiful");
 
+
         practiceClass();
+        gpractice();
     }
 
-    private static void practiceClass(){
+    private static void practiceClass() {
         System.out.println("Git Test");
+    }
 
+    private static void gpractice() {
+        System.out.println("No conflict");
 
     }
 }
