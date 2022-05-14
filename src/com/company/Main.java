@@ -6,5 +6,11 @@ public class Main {
 	// write your code here
 
         System.out.println("Weather is beautiful");
+        gpractice();
+
+    }
+
+    private static void gpractice() {
+        System.out.println("No conflict");
     }
 }
