@@ -6,5 +6,13 @@ public class Main {
 	// write your code here
 
         System.out.println("Weather is beautiful");
+
+        practiceClass();
+    }
+
+    private static void practiceClass(){
+        System.out.println("Git Test");
+
+
     }
 }
