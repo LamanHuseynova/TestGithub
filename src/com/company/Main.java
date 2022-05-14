@@ -7,6 +7,22 @@ public class Main {
 
         System.out.println("Weather is beautiful");
 
+        LamanA_2();
+        gpractice();
+
+
+        practiceClass();
+        gpractice();
+
+
+
+    }
+
+    public static void LamanA_2() {
+        System.out.println("Graphic Design");
+
+        gpractice();
+
 
         practiceClass();
         gpractice();
@@ -21,3 +37,5 @@ public class Main {
 
     }
 }
+
+
